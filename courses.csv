@@ -1,0 +1,13 @@
+title,provider,duration,prerequisites,skill_tags,level,link,domain,cost
+Python for Beginners,Coursera,6 weeks,['none'],"['python', 'programming', 'basic coding']",beginner,https://coursera.org/learn/python-basics,software development,free
+Advanced Python Programming,edX,8 weeks,"['python', 'basic programming']","['python', 'OOP', 'data structures', 'algorithms']",intermediate,https://edx.org/learn/advanced-python,software development,paid
+Full Stack Web Development,Udacity,12 weeks,"['javascript', 'html', 'css']","['javascript', 'react', 'node.js', 'mongodb', 'web development']",intermediate,https://udacity.com/full-stack,web development,paid
+Data Science Fundamentals,Coursera,10 weeks,"['python', 'statistics']","['data science', 'python', 'pandas', 'numpy', 'data analysis']",beginner,https://coursera.org/learn/data-science,data science,free
+Machine Learning Specialization,Coursera,16 weeks,"['python', 'linear algebra', 'statistics']","['machine learning', 'scikit-learn', 'tensorflow', 'deep learning']",intermediate,https://coursera.org/learn/machine-learning,artificial intelligence,paid
+Deep Learning Advanced,edX,12 weeks,"['machine learning', 'python', 'calculus']","['deep learning', 'neural networks', 'pytorch', 'computer vision']",advanced,https://edx.org/learn/deep-learning,artificial intelligence,paid
+AWS Cloud Practitioner,AWS Training,4 weeks,['none'],"['aws', 'cloud computing', 'devops']",beginner,https://aws.amazon.com/training/learn-about/cloud-practitioner,cloud computing,free
+Docker and Kubernetes,Udemy,6 weeks,"['linux', 'basic networking']","['docker', 'kubernetes', 'containers', 'devops']",intermediate,https://udemy.com/docker-kubernetes,devops,paid
+Project Management Professional,PMI,8 weeks,['project experience'],"['project management', 'leadership', 'communication']",intermediate,https://pmi.org/pmp,business,paid
+Effective Communication,LinkedIn Learning,3 weeks,['none'],"['communication', 'presentation', 'soft skills']",beginner,https://linkedin.com/learning/communication,soft skills,paid
+JavaScript Modern Development,FreeCodeCamp,10 weeks,"['html', 'css']","['javascript', 'es6', 'frontend', 'web development']",beginner,https://freecodecamp.org/javascript,web development,free
+React Native Mobile Development,Udemy,8 weeks,"['javascript', 'react']","['react native', 'mobile', 'javascript', 'ios', 'android']",intermediate,https://udemy.com/react-native,mobile development,paid
